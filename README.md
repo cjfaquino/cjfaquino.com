@@ -1,12 +1,10 @@
 # cjfaquino.com
 
-> A personal React.js web app project with [Create React App](https://github.com/facebook/create-react-app)
 
-## Live
+## merged onto [cjfaquino/react-second-portfolio](https://github.com/cjfaquino/react-second-portfolio)
 
-To see the latest live version, go to [https://cjfaquino.com/](https://cjfaquino.com/)
 
-## Features
+### Features
 
 - Single page design
 
